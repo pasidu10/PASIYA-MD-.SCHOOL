@@ -1,0 +1,20 @@
+Pasiya-md_web/
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Home.js
+│   │   │   ├── Home.css
+│   │   │   ├── Registration.js
+│   │   │   └── Registration.css
+│
+├── backend/
+│   ├── server.js
+│   ├── .env
+│   ├── models/
+│   │   ├── UserModel.js
+│   │   └── ContentModel.js
+│   ├── routes/
+│   │   ├── aiRoute.js
+│   │   └── uploadRoute.js
+│   └── uploads/past-papers/
